@@ -1,0 +1,2483 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="A&amp;E [PLUS]">
+    <display-name lang="pt">A&amp;E [PLUS]</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN HD [PLUS]">
+    <display-name lang="pt">AXN HD [PLUS]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet [PLUS]">
+    <display-name lang="pt">Animal Planet [PLUS]</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Globo - SP [Brazil]">
+    <display-name lang="pt">Globo - SP [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200517155500 -0300" stop="20200517164000 -0300" channel="A&amp;E">
+    <title lang="pt">Cultos e Crenças Extremas - Temp. 1 - Ep. 2</title>
+    <desc lang="pt">Com Eden Shea Beck, Stephanie LeHane. Sarah trabalhou recrutando milhares de membros para o grupo de autoajuda NXIVM. Mas em 2017, ela expôs a organização como um culto sexual destrutivo.(n)</desc>
+    <credits>
+      <actor>Eden Shea Beck</actor>
+      <actor>Stephanie LeHane</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000087427001_epg.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20200517164000 -0300" stop="20200517172500 -0300" channel="A&amp;E">
+    <title lang="pt">Cultos e Crenças Extremas - Temp. 1 - Ep. 3</title>
+    <desc lang="pt">Elijah Muhamad cresceu sob os cuidados das Nações Unidas do Islã. Mas quem devia cuidar de sua saúde o sujeitou a trabalho forçado, abuso físico e condições miseráveis.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000087427001_epg.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20200517172500 -0300" stop="20200517191900 -0300" channel="A&amp;E">
+    <title lang="pt">Sem Perdão</title>
+    <desc lang="pt">Disputa entre duas famílias vizinhas e os índios kioma, por uma garota adotada que tem sangue indígena, antes da Guerra da Secessão.(n)</desc>
+    <credits>
+      <director>John Huston</director>
+      <actor>Audrey Hepburn</actor>
+      <actor>Burt Lancaster</actor>
+    </credits>
+    <date>1960</date>
+    <category lang="pt">Western</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200517191900 -0300" stop="20200517205000 -0300" channel="A&amp;E">
+    <title lang="pt">Assassino A Preço Fixo</title>
+    <desc lang="pt">Arthur Bishop é "mecânico" ou, em outras palavras, um assassino contratado pela máfia. O seu chefe pede para que ele se instale na luxuosa mansão do líder.(n)</desc>
+    <credits>
+      <director>Simon West</director>
+      <actor>Jason Statham</actor>
+      <actor>Ben Foster</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000781219_epg.jpg" />
+  </programme>
+  <programme start="20200517205000 -0300" stop="20200517224400 -0300" channel="A&amp;E">
+    <title lang="pt">Medo da Verdade</title>
+    <desc lang="pt">História sobre dois detetives que tentam encontrar uma garotinha de 4 anos sequestrada em Boston.(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Casey Affleck</actor>
+      <actor>Michelle Monaghan</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000154685_epg.jpg" />
+  </programme>
+  <programme start="20200517224400 -0300" stop="20200518003800 -0300" channel="A&amp;E">
+    <title lang="pt">Sem Perdão</title>
+    <desc lang="pt">Disputa entre duas famílias vizinhas e os índios kioma, por uma garota adotada que tem sangue indígena, antes da Guerra da Secessão.(n)</desc>
+    <credits>
+      <director>John Huston</director>
+      <actor>Audrey Hepburn</actor>
+      <actor>Burt Lancaster</actor>
+    </credits>
+    <date>1960</date>
+    <category lang="pt">Western</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518003800 -0300" stop="20200518012300 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles - Temp. 10 - Ep. 21</title>
+    <desc lang="pt">De Eric A. Pot. Com Linda Hunt, Chris O'Donnell. Quando Anna Kolcheck e sua companheira de cela escapam da prisão, Callen e a equipe NCIS vão tentar ajudar na investigação para encontrá-la.(n)</desc>
+    <credits>
+      <director>Eric A</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000066919010021_epg.jpg" />
+    <episode-num system="onscreen">S10 E21</episode-num>
+  </programme>
+  <programme start="20200518012300 -0300" stop="20200518015000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos - Temp. 3 - Ep. 37</title>
+    <desc lang="pt">Dois dos participantes decidem se querem deixar o programa antes do tempo. Enquanto isso, os demais usam toda a sua habilidade para sobreviver à primeira metade do "tempo da condenação".(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084917_epg.jpg" />
+    <episode-num system="onscreen">S3 E37</episode-num>
+  </programme>
+  <programme start="20200518015000 -0300" stop="20200518032000 -0300" channel="A&amp;E">
+    <title lang="pt">Assassino A Preço Fixo</title>
+    <desc lang="pt">Arthur Bishop é "mecânico" ou, em outras palavras, um assassino contratado pela máfia. O seu chefe pede para que ele se instale na luxuosa mansão do líder.(n)</desc>
+    <credits>
+      <director>Simon West</director>
+      <actor>Jason Statham</actor>
+      <actor>Ben Foster</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000781219_epg.jpg" />
+  </programme>
+  <programme start="20200518032000 -0300" stop="20200518051500 -0300" channel="A&amp;E">
+    <title lang="pt">Medo da Verdade</title>
+    <desc lang="pt">História sobre dois detetives que tentam encontrar uma garotinha de 4 anos sequestrada em Boston.(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Casey Affleck</actor>
+      <actor>Michelle Monaghan</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000154685_epg.jpg" />
+  </programme>
+  <programme start="20200518051500 -0300" stop="20200518060000 -0300" channel="A&amp;E">
+    <title lang="pt">Último Dia Em Liberdade - Temp. 2 - Ep. 7</title>
+    <desc lang="pt">Stephanie tenta convencer a sua mãe e o seu irmão de que aprendeu a lição antes de cumprir a sua sentença.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000093599002_epg.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20200518060000 -0300" stop="20200518065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos - Temp. 3 - Ep. 28</title>
+    <desc lang="pt">O amor que Vula sente por gatos ficou fora de controle, tanto que acolhe 30 felinos e sua casa é um depósito de excrementos, móveis sujos e comida velha para gato.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S3 E28</episode-num>
+  </programme>
+  <programme start="20200518065000 -0300" stop="20200518074000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas - Tampa - Temp. 4 - Ep. 9</title>
+    <desc lang="pt">Com Dan Flynn, Arkady Hennessey. Pierre e Jerry saem em uma perseguição em alta velocidade pelas ruas de Tampa. Atendem também um paciente nervoso que precisa ser contido e uma vítima de agressão sexual.(n)</desc>
+    <credits>
+      <actor>Dan Flynn</actor>
+      <actor>Arkady Hennessey</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000076965_epg.jpg" />
+    <episode-num system="onscreen">S4 E9</episode-num>
+  </programme>
+  <programme start="20200518074000 -0300" stop="20200518083000 -0300" channel="A&amp;E">
+    <title lang="pt">Dr. Pé - Temp. 1 - Ep. 6</title>
+    <desc lang="pt">Com Jonathan Tomines. Jonathan ajuda uma vovó que tenta se livrar da dor para poder voltar a brincar com seus netos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20200518083000 -0300" stop="20200518092000 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas - Temp. 13 - Ep. 7</title>
+    <desc lang="pt">Bernadette Perusquia, uma enfermeira de escola, é acusada de atirar em seu marido, Juan, um segurança, mas alega ter sido em legítima defesa.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000067431_epg.jpg" />
+    <episode-num system="onscreen">S13 E7</episode-num>
+  </programme>
+  <programme start="20200518092000 -0300" stop="20200518111500 -0300" channel="A&amp;E">
+    <title lang="pt">Medo da Verdade</title>
+    <desc lang="pt">História sobre dois detetives que tentam encontrar uma garotinha de 4 anos sequestrada em Boston.(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Casey Affleck</actor>
+      <actor>Michelle Monaghan</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000154685_epg.jpg" />
+  </programme>
+  <programme start="20200518111500 -0300" stop="20200518120000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles - Temp. 10 - Ep. 23</title>
+    <desc lang="pt">Sam ajuda um agente do Departamento de Justiça a procurar um ex-oficial de fronteira que desapareceu depois que um cartel de drogas o ameaçou.(n)</desc>
+    <credits>
+      <director>John Peter Kousakis</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000066919010023_epg.jpg" />
+    <episode-num system="onscreen">S10 E23</episode-num>
+  </programme>
+  <programme start="20200518120000 -0300" stop="20200518124500 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas - Temp. 1 - Ep. 7</title>
+    <desc lang="pt">Meghan e Dee precisam lidar com um paciente que desperta extremamente violento depois de uma overdose. Ariel e Cunningham temem o pior quando cruzam com uma moto em chamas.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000092827001_epg.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20200518124500 -0300" stop="20200518133000 -0300" channel="A&amp;E">
+    <title lang="pt">Dr. Pé - Temp. 1 - Ep. 6</title>
+    <desc lang="pt">Com Jonathan Tomines. Jonathan ajuda uma vovó que tenta se livrar da dor para poder voltar a brincar com seus netos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20200518133000 -0300" stop="20200518135500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos - Temp. 3 - Ep. 39</title>
+    <desc lang="pt">Dois dos participantes decidem se querem deixar o programa antes do tempo. Enquanto isso, os demais usam toda a sua habilidade para sobreviver à primeira metade do "tempo da condenação".(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084917_epg.jpg" />
+    <episode-num system="onscreen">S3 E39</episode-num>
+  </programme>
+  <programme start="20200518135500 -0300" stop="20200518142000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos - Temp. 3 - Ep. 40</title>
+    <desc lang="pt">Dois dos participantes decidem se querem deixar o programa antes do tempo. Enquanto isso, os demais usam toda a sua habilidade para sobreviver à primeira metade do "tempo da condenação".(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084917_epg.jpg" />
+    <episode-num system="onscreen">S3 E40</episode-num>
+  </programme>
+  <programme start="20200518142000 -0300" stop="20200518150500 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas - Temp. 21 - Ep. 365</title>
+    <desc lang="pt">De Mira Chang. Uma jovem mãe e sua amiga são mortas diante das crianças e os detetives de Tulsa seguem um veículo muito suspeito na esperança de que o carro possa conduzi-los até o assassino.(n)</desc>
+    <credits>
+      <director>Mira Chang</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00500000000065616_epg.jpg" />
+    <episode-num system="onscreen">S21 E365</episode-num>
+  </programme>
+  <programme start="20200518150500 -0300" stop="20200518170000 -0300" channel="A&amp;E">
+    <title lang="pt">Medo da Verdade</title>
+    <desc lang="pt">História sobre dois detetives que tentam encontrar uma garotinha de 4 anos sequestrada em Boston.(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Casey Affleck</actor>
+      <actor>Michelle Monaghan</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000154685_epg.jpg" />
+  </programme>
+  <programme start="20200518170000 -0300" stop="20200518174500 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas - Temp. 21 - Ep. 371</title>
+    <desc lang="pt">De Mira Chang. Os agentes da cidade de Tulsa, em Oklahoma, descobrem uma evidência extremamente relevante sobre um caso ainda sem resolver.(n)</desc>
+    <credits>
+      <director>Mira Chang</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00500000000065616_epg.jpg" />
+    <episode-num system="onscreen">S21 E371</episode-num>
+  </programme>
+  <programme start="20200518174500 -0300" stop="20200518181500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos - Temp. 5 - Ep. 61</title>
+    <desc lang="pt">Um olhar sem filtros às ações da polícia estadunidense. Neste episódio, denunciam uma briga de rua no Texas. No Arizona, os agentes respondem um pedido de emergência.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084917_epg.jpg" />
+    <episode-num system="onscreen">S5 E61</episode-num>
+  </programme>
+  <programme start="20200518181500 -0300" stop="20200518184500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos - Temp. 5 - Ep. 62</title>
+    <desc lang="pt">Neste episódio, a patrulha canina realiza uma perseguição a pé na Flórida. Os oficiais do Texas respondem a uma ocorrência por roubo e enfrentam um delinquente que resiste à prisão.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084917_epg.jpg" />
+    <episode-num system="onscreen">S5 E62</episode-num>
+  </programme>
+  <programme start="20200518184500 -0300" stop="20200518202000 -0300" channel="A&amp;E">
+    <title lang="pt">Estive em Lisboa e Lembrei de Você</title>
+    <desc lang="pt">Desiludido, Sérgio decide deixar Cataguases e tentar viver fora do Brasil. Chegando em Portugal, ele percebe que a vida de imigrante não é fácil.(n)</desc>
+    <credits>
+      <director>José Barahona</director>
+      <actor>Paulo Azevedo</actor>
+      <actor>Amanda Fontoura</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000526824_epg.jpg" />
+  </programme>
+  <programme start="20200518202000 -0300" stop="20200518211000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas - Temp. 1 - Ep. 5</title>
+    <desc lang="pt">O corpo de bombeiros tenta salvar um homem que caiu no rio Mississippi. É uma noite onde os paramédicos precisam não só salvar vidas, mas também confortar as vítimas.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000076965_epg.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20200518211000 -0300" stop="20200518214000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <desc lang="pt">A Cidade do México, uma das maiores do mundo, está parada. A pandemia da COVID19 obriga seus habitantes a se confinarem enquanto as autoridades sanitárias garantem que as ruas estejam vazias.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000097237_epg.jpg" />
+  </programme>
+  <programme start="20200518214000 -0300" stop="20200518223000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case - Temp. 4 - Ep. 7</title>
+    <desc lang="pt">Reabre-se um caso no qual Jeffries trabalhou quando era novo na Academia, em 1979.(n)</desc>
+    <credits>
+      <director>David Barrett</director>
+      <actor>John Finn</actor>
+      <actor>Danny Pino</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000028384004_epg.jpg" />
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <programme start="20200518223000 -0300" stop="20200519000500 -0300" channel="A&amp;E">
+    <title lang="pt">Anjo da Morte</title>
+    <desc lang="pt">Abdul Hassan, um terrorista egípcio, esconde um artefato misterioso depois de encontrar Milan Saric em um bordel. Kane resolve rastrear seus passos.(n)</desc>
+    <credits>
+      <director>Wayne Rose</director>
+      <actor>Amir Arison</actor>
+      <actor>Tanaya Beatty</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000426361_epg.jpg" />
+  </programme>
+  <programme start="20200517002200 -0300" stop="20200517021000 -0300" channel="A&amp;E HD">
+    <title lang="pt">As Seguidoras De Charlens Manson</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517021000 -0300" stop="20200517034500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Sexo À Venda: História Não Contada</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517034500 -0300" stop="20200517043000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Jovens Condenados: Perpétua Ou Condicional?</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517043000 -0300" stop="20200517051500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Segurança Máxima</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517051500 -0300" stop="20200517060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517060000 -0300" stop="20200517065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517065000 -0300" stop="20200517074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Dr. Pé</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517074000 -0300" stop="20200517083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517083000 -0300" stop="20200517091500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517091500 -0300" stop="20200517100500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517100500 -0300" stop="20200517105500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517105500 -0300" stop="20200517114500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517114500 -0300" stop="20200517123500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517123500 -0300" stop="20200517132500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517132500 -0300" stop="20200517141500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517141500 -0300" stop="20200517150500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517150500 -0300" stop="20200517155500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517155500 -0300" stop="20200517164000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517164000 -0300" stop="20200517172500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517172500 -0300" stop="20200517191900 -0300" channel="A&amp;E HD">
+    <title lang="pt">Sem Perdão</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517191900 -0300" stop="20200517205000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Assassino A Preço Fixo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517205000 -0300" stop="20200517224400 -0300" channel="A&amp;E HD">
+    <title lang="pt">Medo da Verdade</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517224400 -0300" stop="20200518003800 -0300" channel="A&amp;E HD">
+    <title lang="pt">Sem Perdão</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518003800 -0300" stop="20200518012300 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518012300 -0300" stop="20200518015000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518015000 -0300" stop="20200518032000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Assassino A Preço Fixo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518032000 -0300" stop="20200518051500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Medo da Verdade</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518051500 -0300" stop="20200518060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518060000 -0300" stop="20200518065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518065000 -0300" stop="20200518074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518074000 -0300" stop="20200518083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Dr. Pé</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518083000 -0300" stop="20200518092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518092000 -0300" stop="20200518111500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Medo da Verdade</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518111500 -0300" stop="20200518120000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518120000 -0300" stop="20200518124500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518124500 -0300" stop="20200518133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Dr. Pé</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518133000 -0300" stop="20200518135500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518135500 -0300" stop="20200518142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518142000 -0300" stop="20200518150500 -0300" channel="A&amp;E HD">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518150500 -0300" stop="20200518170000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Medo da Verdade</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518170000 -0300" stop="20200518174500 -0300" channel="A&amp;E HD">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518174500 -0300" stop="20200518181500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518181500 -0300" stop="20200518184500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518184500 -0300" stop="20200518202000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Estive em Lisboa e Lembrei de Você</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518202000 -0300" stop="20200518211000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518211000 -0300" stop="20200518214000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Metrópole</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518214000 -0300" stop="20200518223000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cold Case</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518223000 -0300" stop="20200519000500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Anjo da Morte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517154500 -0300" stop="20200517175000 -0300" channel="AMC">
+    <title lang="pt">MIB: Homens De Preto 3</title>
+    <desc lang="pt">Os agentes K e J descobrem que o terrível Boris escapou da prisão lunar e planeja se vingar de K.(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Will Smith</actor>
+      <actor>Josh Brolin, Tommy Lee Jones</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000722559_epg.jpg" />
+  </programme>
+  <programme start="20200517175000 -0300" stop="20200517203000 -0300" channel="AMC">
+    <title lang="pt">Bad Boys II</title>
+    <desc lang="pt">Os parceiros Marcus e Mike são detetives da narcótico que precisam investigar a proliferação do ecstasy em Miami.(n)</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Gabrielle Union</actor>
+      <actor>Martin Lawrence</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000722438_epg.jpg" />
+  </programme>
+  <programme start="20200517203000 -0300" stop="20200517222000 -0300" channel="AMC">
+    <title lang="pt">Hancock</title>
+    <desc lang="pt">Hancok não é um heroi comum. Seus atos salvam muitas vidas, mas sempre provocam um grande desastre.(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>Will Smith</actor>
+      <actor>Charlize Theron</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000180760_epg.jpg" />
+  </programme>
+  <programme start="20200517222000 -0300" stop="20200518003000 -0300" channel="AMC">
+    <title lang="pt">Zohan: O Agente Bom de Corte</title>
+    <desc lang="pt">Zohan é um agente israelense da Mossad que simula sua própria morte para ir a Nova York realizar seu sonho: transformar-se em cabeleireiro.(n)</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Adam Sandler</actor>
+      <actor>John Turturro</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000479628_epg.jpg" />
+  </programme>
+  <programme start="20200518003000 -0300" stop="20200518022000 -0300" channel="AMC">
+    <title lang="pt">Tudo Por Um Bebê</title>
+    <desc lang="pt">Depois de não conseguir engravidar sua esposa, um homem recruta seus amigos para roubar o depósito que ele deixou em um banco de esperma há anos.(n)</desc>
+    <credits>
+      <director>Jay Chandrasekhar</director>
+      <actor>Paul Schneider</actor>
+      <actor>Olivia Munn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000683018_epg.jpg" />
+  </programme>
+  <programme start="20200518022000 -0300" stop="20200518043000 -0300" channel="AMC">
+    <title lang="pt">Escobar: Paraíso Perdido</title>
+    <desc lang="pt">Nicko viaja à Colômbia e lá ele conhece uma mulher e se apaixona. Mas descobre que o tio da garota é ninguém menos que Pablo Escobar.(n)</desc>
+    <credits>
+      <director>Andrea Di Stefano</director>
+      <actor>Benicio Del Toro</actor>
+      <actor>Josh Hutcherson</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000670965_epg.jpg" />
+  </programme>
+  <programme start="20200518043000 -0300" stop="20200518063000 -0300" channel="AMC">
+    <title lang="pt">O Vencedor</title>
+    <desc lang="pt">De David O. Russell. Com Mark Wahlberg, Amy Adams. A história real de "Irish" Micky Ward, um boxeador que percorreu um difícil trajeto até chegar ao título mundial com a ajuda de seu irmão Dicky.(n)</desc>
+    <credits>
+      <director>David O</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Amy Adams</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000251420_epg.jpg" />
+  </programme>
+  <programme start="20200518063000 -0300" stop="20200518070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Cinema</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518070000 -0300" stop="20200518073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Cinema</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518073000 -0300" stop="20200518080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Cinema</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518080000 -0300" stop="20200518083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Cinema</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518083000 -0300" stop="20200518090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Cinema</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518090000 -0300" stop="20200518093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Cinema</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518093000 -0300" stop="20200518100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Cinema</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518100000 -0300" stop="20200518103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Cinema</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518103000 -0300" stop="20200518110000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Cinema</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518110000 -0300" stop="20200518113000 -0300" channel="AMC">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>tiroteios com cowboys a carros explodindo e monstros rugindo</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Diversos</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518113000 -0300" stop="20200518123000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2 - Temp. 1 - Ep. 3</title>
+    <desc lang="pt">Vic se esforça para viver uma vida normal, apesar do aviso de Maggie. Charlie Manx coloca o Bing Partridge para funcionar.(n)</desc>
+    <credits>
+      <director>Kari Skogland</director>
+      <actor>Zachary Quinto</actor>
+      <actor>Ebon Moss-Bachrach</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Terror</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000091867_epg.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20200518123000 -0300" stop="20200518130000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Cinema</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518130000 -0300" stop="20200518145000 -0300" channel="AMC">
+    <title lang="pt">A Minha Canção de Amor</title>
+    <desc lang="pt">Jane é uma ex-cantora que ficou paralítica depois de um acidente. Jane compõe sua mais bela canção de amor graças ao encontro com diversas pessoas.(n)</desc>
+    <credits>
+      <director>Oliver Dahan</director>
+      <actor>Renée Zellweger</actor>
+      <actor>Forest Whitaker</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000309914_epg.jpg" />
+  </programme>
+  <programme start="20200518145000 -0300" stop="20200518151500 -0300" channel="AMC">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>tiroteios com cowboys a carros explodindo e monstros rugindo</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Diversos</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20200518151500 -0300" stop="20200518171000 -0300" channel="AMC">
+    <title lang="pt">Matador em Perigo</title>
+    <desc lang="pt">Victor é um assassino de meia-idade, atraído por uma de suas vitimas, decide poupar sua vida,revê todos os conceitos e inicia o treinamento de um aprendiz.(n)</desc>
+    <credits>
+      <director>Jonathan Lynn</director>
+      <actor>Bill Nighy</actor>
+      <actor>Emily Blunt</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000292216_epg.jpg" />
+  </programme>
+  <programme start="20200518171000 -0300" stop="20200518191500 -0300" channel="AMC">
+    <title lang="pt">Garota Fantástica</title>
+    <desc lang="pt">Bliss Cavendar, uma texana de 17 anos se vê diante de duas opções: levar a sério o concurso de beleza ou tentar a sorte no circuito do "roller derby".(n)</desc>
+    <credits>
+      <director>Drew Barrymore</director>
+      <actor>Ellen Page. Bliss Cavendar</actor>
+      <actor>uma texana de 17 anos se vê diante de duas opções: levar a sério o concurso de beleza ou tentar a sorte no circuito do "roller derby"</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000532001_epg.jpg" />
+  </programme>
+  <programme start="20200518191500 -0300" stop="20200518205000 -0300" channel="AMC">
+    <title lang="pt">Do Lado de Fora</title>
+    <desc lang="pt">Um grupo de amigos faz um pacto para "sair do armário" depois que um deles é atacado durante a Parada do Orgulho Gay de São Paulo.(n)</desc>
+    <credits>
+      <director>Alexandre Carvalho</director>
+      <actor>Marcello Airoldi</actor>
+      <actor>Tania Granussi</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000494565_epg.jpg" />
+  </programme>
+  <programme start="20200518205000 -0300" stop="20200518223000 -0300" channel="AMC">
+    <title lang="pt">Caça às Bruxas</title>
+    <desc lang="pt">Após retornarem das Cruzadas, Behmen e seu fiel companheiro Felson desertam do exército de Deus. Em troca de absolvição, eles recebem uma última missão.(n)</desc>
+    <credits>
+      <director>Dominic Sena</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Ron Perlman</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000256139_epg.jpg" />
+  </programme>
+  <programme start="20200518223000 -0300" stop="20200519003000 -0300" channel="AMC">
+    <title lang="pt">Imortais</title>
+    <desc lang="pt">O rei Hyperion está em busca do arco de Épiro para dominar o mundo e destruir os deuses. O único que pode detê-lo é Theseus, um jovem escolhido por Zeus.(n)</desc>
+    <credits>
+      <director>Tarsem Singh</director>
+      <actor>Henry Cavill</actor>
+      <actor>Mickey Rourke</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000297978_epg.jpg" />
+  </programme>
+  <programme start="20200517154500 -0300" stop="20200517175000 -0300" channel="AMC HD">
+    <title lang="pt">MIB: Homens De Preto 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200517175000 -0300" stop="20200517203000 -0300" channel="AMC HD">
+    <title lang="pt">Bad Boys II</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200517203000 -0300" stop="20200517222000 -0300" channel="AMC HD">
+    <title lang="pt">Hancock</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200517222000 -0300" stop="20200518003000 -0300" channel="AMC HD">
+    <title lang="pt">Zohan: O Agente Bom de Corte</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200518003000 -0300" stop="20200518022000 -0300" channel="AMC HD">
+    <title lang="pt">Tudo Por Um Bebê</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200518022000 -0300" stop="20200518043000 -0300" channel="AMC HD">
+    <title lang="pt">Escobar: Paraíso Perdido</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200518043000 -0300" stop="20200518063000 -0300" channel="AMC HD">
+    <title lang="pt">O Vencedor</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200518063000 -0300" stop="20200518070000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200518070000 -0300" stop="20200518073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200518073000 -0300" stop="20200518080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200518080000 -0300" stop="20200518083000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200518083000 -0300" stop="20200518090000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200518090000 -0300" stop="20200518093000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200518093000 -0300" stop="20200518100000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200518100000 -0300" stop="20200518103000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200518103000 -0300" stop="20200518110000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200518110000 -0300" stop="20200518113000 -0300" channel="AMC HD">
+    <title lang="pt">Planet Action</title>
+    <category lang="pt">Séries/Diversos</category>
+  </programme>
+  <programme start="20200518113000 -0300" stop="20200518123000 -0300" channel="AMC HD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20200518123000 -0300" stop="20200518130000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200518130000 -0300" stop="20200518145000 -0300" channel="AMC HD">
+    <title lang="pt">A Minha Canção de Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200518145000 -0300" stop="20200518151500 -0300" channel="AMC HD">
+    <title lang="pt">Planet Action</title>
+    <category lang="pt">Séries/Diversos</category>
+  </programme>
+  <programme start="20200518151500 -0300" stop="20200518171000 -0300" channel="AMC HD">
+    <title lang="pt">Matador em Perigo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200518171000 -0300" stop="20200518191500 -0300" channel="AMC HD">
+    <title lang="pt">Garota Fantástica</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200518191500 -0300" stop="20200518205000 -0300" channel="AMC HD">
+    <title lang="pt">Do Lado de Fora</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200518205000 -0300" stop="20200518223000 -0300" channel="AMC HD">
+    <title lang="pt">Caça às Bruxas</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200518223000 -0300" stop="20200519003000 -0300" channel="AMC HD">
+    <title lang="pt">Imortais</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200517152500 -0300" stop="20200517162000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 4 - Ep. 15</title>
+    <desc lang="pt">De Charles S. Carroll. Com Joe Mantegna, Paget Brewster. As autoridades locais, em Cleveland, pedem ajuda ao BAU durante a caçada a um assassino serial que copia os assassinos famosos do passado.(n)</desc>
+    <credits>
+      <director>Charles S</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Paget Brewster</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179_epg.jpg" />
+    <episode-num system="onscreen">S4 E15</episode-num>
+  </programme>
+  <programme start="20200517162000 -0300" stop="20200517171500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 4 - Ep. 16</title>
+    <desc lang="pt">A BAU vai até Dallas para investigar os crimes de um assassino serial que ilude e mata executivos poderosos fingindo ser prostituta de luxo.(n)</desc>
+    <credits>
+      <director>Gwyneth Horder-Payton</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Paget Brewster</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179_epg.jpg" />
+    <episode-num system="onscreen">S4 E16</episode-num>
+  </programme>
+  <programme start="20200517171500 -0300" stop="20200517181000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 4 - Ep. 17</title>
+    <desc lang="pt">A BAU investiga uma série de mortes envolvendo possíveis exorcismos em uma área de Washington.(n)</desc>
+    <credits>
+      <director>Edward Allen Bernero</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Paget Brewster</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179_epg.jpg" />
+    <episode-num system="onscreen">S4 E17</episode-num>
+  </programme>
+  <programme start="20200517181000 -0300" stop="20200517201000 -0300" channel="AXN">
+    <title lang="pt">O Exterminador do Futuro: A Salvação</title>
+    <desc lang="pt">Depois que grande parte da humanidade é destruída pela Skynet, sobreviventes liderados por Connor lutarão para impedir que as máquinas terminem o extermínio.(n)</desc>
+    <credits>
+      <director>McG</director>
+      <actor>Christian Bale</actor>
+      <actor>Sam Worthington</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000205080_epg.jpg" />
+  </programme>
+  <programme start="20200517201000 -0300" stop="20200517210500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 15 - Ep. 10</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Alec Smight</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179_epg.jpg" />
+    <episode-num system="onscreen">S15 E10</episode-num>
+  </programme>
+  <programme start="20200517210500 -0300" stop="20200517220000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0 - Temp. 9 - Ep. 25</title>
+    <desc lang="pt">No final da nona temporada, a equipe Five-0 continua caçando o fugitivo Aaron Wright, antes que ele venda armas cibernéticas para outro bandido.(n)</desc>
+    <credits>
+      <director>Eagle Egilson</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000081026_epg.jpg" />
+    <episode-num system="onscreen">S9 E25</episode-num>
+  </programme>
+  <programme start="20200517220000 -0300" stop="20200517234500 -0300" channel="AXN">
+    <title lang="pt">Resident Evil 2: Apocalipse</title>
+    <desc lang="pt">Com Raccoon City sob o poder da Umbrella Corporation, uma nova ameaça viral nomeada de Nemesis paira sobre a cidade.(n)</desc>
+    <credits>
+      <director>Alexander Witt</director>
+      <actor>Eric Mabius</actor>
+      <actor>Sienna Guillory</actor>
+      <actor>Raccoon City sob o poder da Umbrella Corporation</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000722643_epg.jpg" />
+  </programme>
+  <programme start="20200517234500 -0300" stop="20200518013000 -0300" channel="AXN">
+    <title lang="pt">Resident Evil 2: Apocalipse</title>
+    <desc lang="pt">Com Raccoon City sob o poder da Umbrella Corporation, uma nova ameaça viral nomeada de Nemesis paira sobre a cidade.(n)</desc>
+    <credits>
+      <director>Alexander Witt</director>
+      <actor>Eric Mabius</actor>
+      <actor>Sienna Guillory</actor>
+      <actor>Raccoon City sob o poder da Umbrella Corporation</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000722643_epg.jpg" />
+  </programme>
+  <programme start="20200518013000 -0300" stop="20200518022500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 13 - Ep. 13</title>
+    <desc lang="pt">A BAU é chamada para investigar uma série de homicídios em DC, onde mensagens enigmáticas são encontradas dentro das bocas de cada vítima.(n)</desc>
+    <credits>
+      <director>Glenn Kershaw</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179_epg.jpg" />
+    <episode-num system="onscreen">S13 E13</episode-num>
+  </programme>
+  <programme start="20200518022500 -0300" stop="20200518032000 -0300" channel="AXN">
+    <title lang="pt">C.S.I - Temp. 6 - Ep. 12</title>
+    <desc lang="pt">Os CSIs investigam o esfaqueamento de um piloto de motocross que estava prestes a deixar a cidade com uma mulher que vivia.(n)</desc>
+    <credits>
+      <director>Terrence O'Hara</director>
+      <actor>Jorja Fox</actor>
+      <actor>George Eads</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000026643_epg.jpg" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+  </programme>
+  <programme start="20200518032000 -0300" stop="20200518041500 -0300" channel="AXN">
+    <title lang="pt">C.S.I - Temp. 6 - Ep. 13</title>
+    <desc lang="pt">Os CSIs vão para uma elegante festa feita para a nata da sociedade, com o intuito de descobrir quem matou um jovem rapaz.(n)</desc>
+    <credits>
+      <director>Danny Cannon</director>
+      <actor>Jorja Fox</actor>
+      <actor>George Eads</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000026643_epg.jpg" />
+    <episode-num system="onscreen">S6 E13</episode-num>
+  </programme>
+  <programme start="20200518041500 -0300" stop="20200518051000 -0300" channel="AXN">
+    <title lang="pt">C.S.I - Temp. 6 - Ep. 14</title>
+    <desc lang="pt">Os CSI precisam investigar quando uma garota festeira é machucada e morta em um acidente de carro.(n)</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <actor>Jorja Fox</actor>
+      <actor>George Eads</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000026643_epg.jpg" />
+    <episode-num system="onscreen">S6 E14</episode-num>
+  </programme>
+  <programme start="20200518051000 -0300" stop="20200518060000 -0300" channel="AXN">
+    <title lang="pt">C.S.I - Temp. 6 - Ep. 15</title>
+    <desc lang="pt">De Richard J. Lewis. Com Jorja Fox, George Eads. Os CSIs investigam o terrível assassinato da filha distante de Lady Heather, Zoe, que foi encontrada no meio do deserto, em Las Vegas.(n)</desc>
+    <credits>
+      <director>Richard J</director>
+      <actor>Jorja Fox</actor>
+      <actor>George Eads</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000026643_epg.jpg" />
+    <episode-num system="onscreen">S6 E15</episode-num>
+  </programme>
+  <programme start="20200518060000 -0300" stop="20200518070000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 10 - Ep. 19</title>
+    <desc lang="pt">Uma família de quatro pessoas desaparece em Barbados, durante as férias.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179010019_epg.jpg" />
+    <episode-num system="onscreen">S10 E19</episode-num>
+  </programme>
+  <programme start="20200518070000 -0300" stop="20200518080000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 10 - Ep. 20</title>
+    <desc lang="pt">Com Molly Baker, Riley Neldam. Uma família de Maryland é encontrada morta na mesa de jantar, o que leva o time a falar com outros parentes e amigos que podem trazer pistas sobre o motivo do crime.(n)</desc>
+    <credits>
+      <actor>Molly Baker</actor>
+      <actor>Riley Neldam</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179010_epg.jpg" />
+    <episode-num system="onscreen">S10 E20</episode-num>
+  </programme>
+  <programme start="20200518080000 -0300" stop="20200518090000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 10 - Ep. 21</title>
+    <desc lang="pt">Com Jamie Bock, Brittany Falardeau. Três pessoas envolvidas em mortes dizem que foram atacadas por um "monstro" no momento do crime, o que leva a equipe a procurar um suspeito capaz de controlar a mente.(n)</desc>
+    <credits>
+      <actor>Jamie Bock</actor>
+      <actor>Brittany Falardeau</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179010_epg.jpg" />
+    <episode-num system="onscreen">S10 E21</episode-num>
+  </programme>
+  <programme start="20200518090000 -0300" stop="20200518100000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 10 - Ep. 22</title>
+    <desc lang="pt">Vítimas baleadas são encontradas em uma área de Los Angeles ligada a atividades criminais, o que leva o time ao procurar pelo justiceiro responsável pelas mortes.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179010_epg.jpg" />
+    <episode-num system="onscreen">S10 E22</episode-num>
+  </programme>
+  <programme start="20200518100000 -0300" stop="20200518110000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 10 - Ep. 19</title>
+    <desc lang="pt">Uma família de quatro pessoas desaparece em Barbados, durante as férias.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179010019_epg.jpg" />
+    <episode-num system="onscreen">S10 E19</episode-num>
+  </programme>
+  <programme start="20200518110000 -0300" stop="20200518115500 -0300" channel="AXN">
+    <title lang="pt">NCIS - Temp. 9 - Ep. 10</title>
+    <desc lang="pt">Anthony DiNozzo Sr. é encontrado em um carro sem nenhuma lembrança da noite anterior e um corpo morto no porta-malas.(n)</desc>
+    <credits>
+      <director>Arvin Brown</director>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000040787_epg.jpg" />
+    <episode-num system="onscreen">S9 E10</episode-num>
+  </programme>
+  <programme start="20200518115500 -0300" stop="20200518125000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles - Temp. 2 - Ep. 20</title>
+    <desc lang="pt">Kensi se infiltra como uma ladra na esperança de descobrir o objeto que um ladrão de nível internacional pretendia roubar.(n)</desc>
+    <credits>
+      <director>Terrence O'Hara</director>
+      <actor>Barrett Foa</actor>
+      <actor>Daniela Ruah</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00500000000066919_epg.jpg" />
+    <episode-num system="onscreen">S2 E20</episode-num>
+  </programme>
+  <programme start="20200518125000 -0300" stop="20200518134500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Nova Orleans - Temp. 3 - Ep. 12</title>
+    <desc lang="pt">Pride deve investigar um assassinato em uma plataforma de petróleo. Mas enquanto investiga suspeitos, um vazamento de gás ameaça explodir todo o lugar.(n)</desc>
+    <credits>
+      <director>Michael Zinberg</director>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000077555_epg.jpg" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+  </programme>
+  <programme start="20200518134500 -0300" stop="20200518144000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 13 - Ep. 14</title>
+    <desc lang="pt">A BAU é chamado quando a Polícia de New Orleans descobre uma vala comum dentro de uma cripta vandalizada em um cemitério local.(n)</desc>
+    <credits>
+      <director>Leon Ichaso</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179_epg.jpg" />
+    <episode-num system="onscreen">S13 E14</episode-num>
+  </programme>
+  <programme start="20200518144000 -0300" stop="20200518153500 -0300" channel="AXN">
+    <title lang="pt">NCIS - Temp. 9 - Ep. 10</title>
+    <desc lang="pt">Anthony DiNozzo Sr. é encontrado em um carro sem nenhuma lembrança da noite anterior e um corpo morto no porta-malas.(n)</desc>
+    <credits>
+      <director>Arvin Brown</director>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000040787_epg.jpg" />
+    <episode-num system="onscreen">S9 E10</episode-num>
+  </programme>
+  <programme start="20200518153500 -0300" stop="20200518163000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY - Temp. 1 - Ep. 9</title>
+    <desc lang="pt">Quando um equipado policial de Nova York recebe um tiro em seu cavalo, Mac e Stella precisam procurar pelos suspeitos.(n)</desc>
+    <credits>
+      <director>Deran Sarafian</director>
+      <actor>Gary Sinise</actor>
+      <actor>Hill Harper</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000061898_epg.jpg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20200518163000 -0300" stop="20200518172500 -0300" channel="AXN">
+    <title lang="pt">C.S.I - Temp. 7 - Ep. 17</title>
+    <desc lang="pt">Grissom e sua equipe investigam o desaparecimento de um estudante, jogador de basquete e de sua namorada cheerleader.(n)</desc>
+    <credits>
+      <director>Christopher Leitch</director>
+      <actor>Gary Dourdan</actor>
+      <actor>Jorja Fox</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000026643_epg.jpg" />
+    <episode-num system="onscreen">S7 E17</episode-num>
+  </programme>
+  <programme start="20200518172500 -0300" stop="20200518182000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami - Temp. 3 - Ep. 11</title>
+    <desc lang="pt">Quando uma mulher é assassinada, a equipe de CSI procura seu marido, o mais velho de três irmãos que gerenciam um lucrativo negócio familiar.(n)</desc>
+    <credits>
+      <director>Steven DePaul</director>
+      <actor>Caruso</actor>
+      <actor>Emily Procter</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000061897003_epg.jpg" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20200518182000 -0300" stop="20200518191500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0 - Temp. 6 - Ep. 21</title>
+    <desc lang="pt">A Five-0 sai em uma caçada quando um derramamento químico permite que seis perigosos presos escapem, incluindo o marido de Kono, Adam.(n)</desc>
+    <credits>
+      <director>Peter Weller</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000081026_epg.jpg" />
+    <episode-num system="onscreen">S6 E21</episode-num>
+  </programme>
+  <programme start="20200518191500 -0300" stop="20200518200500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0 - Temp. 6 - Ep. 22</title>
+    <desc lang="pt">Five-0 tenta salvar um estudante universitário sequestrado de um vigilante perigoso. Enquanto isso, Max, Kamekona e Flippa tentam sobreviver a um naufrágio.(n)</desc>
+    <credits>
+      <director>Bryan Spicer</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000081026_epg.jpg" />
+    <episode-num system="onscreen">S6 E22</episode-num>
+  </programme>
+  <programme start="20200518200500 -0300" stop="20200518210500 -0300" channel="AXN">
+    <title lang="pt">NCIS - Temp. 9 - Ep. 10</title>
+    <desc lang="pt">Anthony DiNozzo Sr. é encontrado em um carro sem nenhuma lembrança da noite anterior e um corpo morto no porta-malas.(n)</desc>
+    <credits>
+      <director>Arvin Brown</director>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000040787_epg.jpg" />
+    <episode-num system="onscreen">S9 E10</episode-num>
+  </programme>
+  <programme start="20200518210500 -0300" stop="20200518220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds - Temp. 13 - Ep. 14</title>
+    <desc lang="pt">A BAU é chamado quando a Polícia de New Orleans descobre uma vala comum dentro de uma cripta vandalizada em um cemitério local.(n)</desc>
+    <credits>
+      <director>Leon Ichaso</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000029179_epg.jpg" />
+    <episode-num system="onscreen">S13 E14</episode-num>
+  </programme>
+  <programme start="20200518220000 -0300" stop="20200518225500 -0300" channel="AXN">
+    <title lang="pt">Lincoln Rhyme: Hunt For The Bone Collector - Temp. 1 - Ep. 1</title>
+    <desc lang="pt">Três anos depois que o Colecionador de Ossos acabou com sua carreira.(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor>Russell Hornsby</actor>
+      <actor>Courtney Grosbeck</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000097942001_epg.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20200518225500 -0300" stop="20200518234500 -0300" channel="AXN">
+    <title lang="pt">Harrow - Temp. 1 - Ep. 3</title>
+    <desc lang="pt">Um braço humano dentro de um crocodilo morto leva Harrow e Dass para a distante região de North Queensland, onde enfrentarão crocodilos e bandidos.(n)</desc>
+    <credits>
+      <director>Peter Salmon</director>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Ella Newton</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000097941001_epg.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20200518234500 -0300" stop="20200519001500 -0300" channel="AXN">
+    <title lang="pt">Sem Rastro - Temp. 2 - Ep. 10</title>
+    <desc lang="pt">Na Zona Sul de São Paulo, um adolescente de 15 anos contraria a sua mãe e sai para se encontrar com um amigo tarde da noite. Ele não volta mais para casa e sua mãe começa uma busca marcada.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Investigação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084441_epg.jpg" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20200517000000 -0300" stop="20200517005500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517005500 -0300" stop="20200517015000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517015000 -0300" stop="20200517024000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517024000 -0300" stop="20200517033000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517033000 -0300" stop="20200517042000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517042000 -0300" stop="20200517051000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517051000 -0300" stop="20200517060000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517060000 -0300" stop="20200517070000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517070000 -0300" stop="20200517080000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517080000 -0300" stop="20200517090000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517090000 -0300" stop="20200517095500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517095500 -0300" stop="20200517105000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517105000 -0300" stop="20200517114500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517114500 -0300" stop="20200517124000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517124000 -0300" stop="20200517133500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517133500 -0300" stop="20200517143000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517143000 -0300" stop="20200517152500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517152500 -0300" stop="20200517162000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517162000 -0300" stop="20200517171500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517171500 -0300" stop="20200517181000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517181000 -0300" stop="20200517201000 -0300" channel="AXN HD">
+    <title lang="pt">O Exterminador do Futuro: A Salvação</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517201000 -0300" stop="20200517210500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517210500 -0300" stop="20200517220000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517220000 -0300" stop="20200517234500 -0300" channel="AXN HD">
+    <title lang="pt">Resident Evil 2: Apocalipse</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517234500 -0300" stop="20200518013000 -0300" channel="AXN HD">
+    <title lang="pt">Resident Evil 2: Apocalipse</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518013000 -0300" stop="20200518022500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518022500 -0300" stop="20200518032000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518032000 -0300" stop="20200518041500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518041500 -0300" stop="20200518051000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518051000 -0300" stop="20200518060000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518060000 -0300" stop="20200518070000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518070000 -0300" stop="20200518080000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518080000 -0300" stop="20200518090000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518090000 -0300" stop="20200518100000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518100000 -0300" stop="20200518110000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518110000 -0300" stop="20200518115500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518115500 -0300" stop="20200518125000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518125000 -0300" stop="20200518134500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518134500 -0300" stop="20200518144000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518144000 -0300" stop="20200518153500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518153500 -0300" stop="20200518163000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518163000 -0300" stop="20200518172500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518172500 -0300" stop="20200518182000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518182000 -0300" stop="20200518191500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518191500 -0300" stop="20200518200500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518200500 -0300" stop="20200518210500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518210500 -0300" stop="20200518220000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518220000 -0300" stop="20200518225500 -0300" channel="AXN HD">
+    <title lang="pt">Lincoln Rhyme: Hunt For The Bone Collector</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518225500 -0300" stop="20200518234500 -0300" channel="AXN HD">
+    <title lang="pt">Harrow</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518234500 -0300" stop="20200519001500 -0300" channel="AXN HD">
+    <title lang="pt">Sem Rastro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517152500 -0300" stop="20200517162000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200517162000 -0300" stop="20200517171500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200517171500 -0300" stop="20200517181000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200517181000 -0300" stop="20200517201000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">O Exterminador do Futuro: A Salvação</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200517201000 -0300" stop="20200517210500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200517210500 -0300" stop="20200517220000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200517220000 -0300" stop="20200517234500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Resident Evil 2: Apocalipse</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200517234500 -0300" stop="20200518013000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Resident Evil 2: Apocalipse</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200518013000 -0300" stop="20200518022500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200518022500 -0300" stop="20200518032000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200518032000 -0300" stop="20200518041500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200518041500 -0300" stop="20200518051000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200518051000 -0300" stop="20200518060000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200518060000 -0300" stop="20200518070000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200518070000 -0300" stop="20200518080000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200518080000 -0300" stop="20200518090000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200518090000 -0300" stop="20200518100000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200518100000 -0300" stop="20200518110000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200518110000 -0300" stop="20200518115500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200518115500 -0300" stop="20200518125000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200518125000 -0300" stop="20200518134500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200518134500 -0300" stop="20200518144000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200518144000 -0300" stop="20200518153500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200518153500 -0300" stop="20200518163000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200518163000 -0300" stop="20200518172500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200518172500 -0300" stop="20200518182000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200518182000 -0300" stop="20200518191500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200518191500 -0300" stop="20200518200500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200518200500 -0300" stop="20200518210500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200518210500 -0300" stop="20200518220000 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200518220000 -0300" stop="20200518225500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Lincoln Rhyme: Hunt For The Bone Collector</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200518225500 -0300" stop="20200518234500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Harrow</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200518234500 -0300" stop="20200519001500 -0300" channel="AXN HD [PLUS]">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200517151900 -0300" stop="20200517161500 -0300" channel="Animal Planet">
+    <title lang="pt">Espiões da Natureza</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200517161500 -0300" stop="20200517170900 -0300" channel="Animal Planet">
+    <title lang="pt">As Quatro Estações da Terra</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20200517170900 -0300" stop="20200517180000 -0300" channel="Animal Planet">
+    <title lang="pt">Predadores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200517180000 -0300" stop="20200517185200 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200517185200 -0300" stop="20200517194300 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200517194300 -0300" stop="20200517200900 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200517200900 -0300" stop="20200517203400 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200517203400 -0300" stop="20200517210000 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200517210000 -0300" stop="20200517212500 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200517212500 -0300" stop="20200517221600 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200517221600 -0300" stop="20200517230700 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200517230700 -0300" stop="20200517235800 -0300" channel="Animal Planet">
+    <title lang="pt">De Abandonados a Supercães</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200517235800 -0300" stop="20200518004900 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200518004900 -0300" stop="20200518014200 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200518014200 -0300" stop="20200518023500 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200518023500 -0300" stop="20200518032900 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200518032900 -0300" stop="20200518042300 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200518042300 -0300" stop="20200518051700 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200518051700 -0300" stop="20200518061100 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200518061100 -0300" stop="20200518063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518063400 -0300" stop="20200518065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518065700 -0300" stop="20200518074700 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518074700 -0300" stop="20200518083800 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518083800 -0300" stop="20200518092900 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518092900 -0300" stop="20200518102000 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200518102000 -0300" stop="20200518111100 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200518111100 -0300" stop="20200518120200 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200518120200 -0300" stop="20200518124600 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518124600 -0300" stop="20200518133400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518133400 -0300" stop="20200518142200 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518142200 -0300" stop="20200518151100 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518151100 -0300" stop="20200518160700 -0300" channel="Animal Planet">
+    <title lang="pt">Vida Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518160700 -0300" stop="20200518170300 -0300" channel="Animal Planet">
+    <title lang="pt">Vida Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518170300 -0300" stop="20200518180000 -0300" channel="Animal Planet">
+    <title lang="pt">Leões da Montanha: Vida No Limite</title>
+    <category lang="pt">Documentário/Ecologia</category>
+  </programme>
+  <programme start="20200518180000 -0300" stop="20200518182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20200518182600 -0300" stop="20200518185200 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20200518185200 -0300" stop="20200518194300 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518194300 -0300" stop="20200518203400 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518203400 -0300" stop="20200518212500 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518212500 -0300" stop="20200518221600 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518221600 -0300" stop="20200518230700 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518230700 -0300" stop="20200518235800 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200518235800 -0300" stop="20200519004900 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200517000100 -0300" stop="20200517005400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Forças da Natureza</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517005400 -0300" stop="20200517014400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517014400 -0300" stop="20200517023500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517023500 -0300" stop="20200517032900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517032900 -0300" stop="20200517042300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517042300 -0300" stop="20200517051700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517051700 -0300" stop="20200517060900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517060900 -0300" stop="20200517063400 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517063400 -0300" stop="20200517072400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517072400 -0300" stop="20200517081500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517081500 -0300" stop="20200517090600 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Aquário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517090600 -0300" stop="20200517095700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Aquário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517095700 -0300" stop="20200517105700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Serengeti</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517105700 -0300" stop="20200517115100 -0300" channel="Animal Planet HD">
+    <title lang="pt">As Quatro Estações da Terra</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517115100 -0300" stop="20200517124500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dinastias</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517124500 -0300" stop="20200517133600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Mutante</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517133600 -0300" stop="20200517142700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517142700 -0300" stop="20200517151900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Azul</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517151900 -0300" stop="20200517161500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Espiões da Natureza</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517161500 -0300" stop="20200517170900 -0300" channel="Animal Planet HD">
+    <title lang="pt">As Quatro Estações da Terra</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517170900 -0300" stop="20200517180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Predadores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517180000 -0300" stop="20200517185200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517185200 -0300" stop="20200517194300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517194300 -0300" stop="20200517200900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517200900 -0300" stop="20200517203400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517203400 -0300" stop="20200517210000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517210000 -0300" stop="20200517212500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517212500 -0300" stop="20200517221600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517221600 -0300" stop="20200517230700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517230700 -0300" stop="20200517235800 -0300" channel="Animal Planet HD">
+    <title lang="pt">De Abandonados a Supercães</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517235800 -0300" stop="20200518004900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518004900 -0300" stop="20200518014200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Aquário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518014200 -0300" stop="20200518023500 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Aquário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518023500 -0300" stop="20200518032900 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Aquário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518032900 -0300" stop="20200518042300 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518042300 -0300" stop="20200518051700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518051700 -0300" stop="20200518061100 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518061100 -0300" stop="20200518063400 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518063400 -0300" stop="20200518065700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518065700 -0300" stop="20200518074700 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518074700 -0300" stop="20200518083800 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518083800 -0300" stop="20200518092900 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518092900 -0300" stop="20200518102000 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Aquário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518102000 -0300" stop="20200518111100 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Aquário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518111100 -0300" stop="20200518120200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Aquário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518120200 -0300" stop="20200518124600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518124600 -0300" stop="20200518133400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518133400 -0300" stop="20200518142200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518142200 -0300" stop="20200518151100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518151100 -0300" stop="20200518160700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518160700 -0300" stop="20200518170300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518170300 -0300" stop="20200518180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Leões da Montanha: Vida No Limite</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518180000 -0300" stop="20200518182600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518182600 -0300" stop="20200518185200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518185200 -0300" stop="20200518194300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Mutante</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518194300 -0300" stop="20200518203400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518203400 -0300" stop="20200518212500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518212500 -0300" stop="20200518221600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518221600 -0300" stop="20200518230700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518230700 -0300" stop="20200518235800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200518235800 -0300" stop="20200519004900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200517160000 -0300" stop="20200517180500 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Futebol - Reprise: Corinthians x Chelsea</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200517180500 -0300" stop="20200517200000 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Domingão do Faustão</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200517200000 -0300" stop="20200517223300 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Fantástico</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200517223300 -0300" stop="20200518001800 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Domingo Maior: Direção Explosiva</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200518001800 -0300" stop="20200518022200 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Cinemaço: Duro de Matar 3 - A Vingança</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200518022200 -0300" stop="20200518040000 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Corujão: O Atirador 4</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200518040000 -0300" stop="20200518060000 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200518060000 -0300" stop="20200518083000 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200518083000 -0300" stop="20200518095000 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200518095000 -0300" stop="20200518104100 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Combate ao Coronavírus</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200518104100 -0300" stop="20200518120000 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200518120000 -0300" stop="20200518132500 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">SP1</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200518132500 -0300" stop="20200518145700 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200518145700 -0300" stop="20200518163500 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Sessão da Tarde: Segurança de Shopping 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200518163500 -0300" stop="20200518175800 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200518175800 -0300" stop="20200518182400 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200518182400 -0300" stop="20200518190500 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Novo Mundo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200518190500 -0300" stop="20200518193500 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">SP2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200518193500 -0300" stop="20200518203000 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Totalmente Demais</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200518203000 -0300" stop="20200518213500 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200518213500 -0300" stop="20200518223600 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Fina Estampa</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200518223600 -0300" stop="20200519002400 -0300" channel="Globo - SP [Brazil]">
+    <title lang="pt">Tela Quente: Rampage - Destruição Total</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+</tv>
