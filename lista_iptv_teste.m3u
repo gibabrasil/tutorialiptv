@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,A&E
+http://a.srvbr.me:8880/201901/201901/898
+#EXTINF:-1,A&E HD
+http://a.srvbr.me:8880/201901/201901/4203
+#EXTINF:-1,A&E [PLUS]
+http://a.srvbr.me:8880/201901/201901/4167
+#EXTINF:-1,AMC
+http://a.srvbr.me:8880/201901/201901/5077
+#EXTINF:-1,AMC HD
+http://a.srvbr.me:8880/201901/201901/5076
+#EXTINF:-1,AMC [PLUS]
+http://a.srvbr.me:8880/201901/201901/4644
+#EXTINF:-1,AXN
+http://a.srvbr.me:8880/201901/201901/893
+#EXTINF:-1,AXN HD
+http://a.srvbr.me:8880/201901/201901/892
+#EXTINF:-1,AXN HD [PLUS]
+http://a.srvbr.me:8880/201901/201901/4165
+#EXTINF:-1,Animal Planet
+http://a.srvbr.me:8880/201901/201901/897
+#EXTINF:-1,Animal Planet HD
+http://a.srvbr.me:8880/201901/201901/896
+#EXTINF:-1,Animal Planet Full HD
+http://a.srvbr.me:8880/201901/201901/5436
+#EXTINF:-1,Animal Planet [PLUS]
+http://a.srvbr.me:8880/201901/201901/4166
+#EXTINF:-1,Globo SP HD
+http://a.srvbr.me:8880/201901/201901/5095
+
+
+#EXTINF:-1,Arte 1
+http://a.srvbr.me:8880/201901/201901/894
