@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,A&E
+http://a.srvbr.me:8880/201901/201901/898
+#EXTINF:-1,A&E HD
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
+#EXTINF:-1,A&E [PLUS]
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
+#EXTINF:-1,AMC
+http://a.srvbr.me:8880/xlmtv.php
+#EXTINF:-1,AMC HD
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
+#EXTINF:-1,AMC [PLUS]
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
+#EXTINF:-1,AXN
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
+#EXTINF:-1,AXN HD
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
+#EXTINF:-1,AXN HD [PLUS]
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
+#EXTINF:-1,Animal Planet
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml7
+#EXTINF:-1,Animal Planet HD
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
+#EXTINF:-1,Animal Planet Full HD
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
+#EXTINF:-1,Animal Planet [PLUS]
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
+#EXTINF:-1,Globo SP HD
+https://raw.githubusercontent.com/gibabrasil/tutorialiptv/master/guide.xml
